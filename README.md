@@ -16,4 +16,4 @@
 # 2016
 ![VBA2016Screenshot](https://user-images.githubusercontent.com/53315287/123558351-ba2a4a80-d763-11eb-871a-b54590b633eb.png)
 ---
-
+*This was a challenging project and I did save my progress regularly. However, I did not upload this to GitHub until the very end, therefore I am missing the 20+ commits that would have occurred over the length of the project.*
